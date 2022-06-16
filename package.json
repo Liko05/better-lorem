@@ -3,7 +3,7 @@
     "displayName": "better_lorem",
     "description": "Better lorem ipsum But its not actually lorem ipsum.",
     "version": "1.0.1",
-    "publisher": "Asuna",
+    "publisher": "cwute",
     "icon": "taiga.jpg",
     "engines": {
         "vscode": "^1.68.0"
