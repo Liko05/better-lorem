@@ -2,9 +2,15 @@
     "name": "better-lorem",
     "displayName": "better_lorem",
     "description": "Better lorem ipsum But its not actually lorem ipsum.",
-    "version": "0.0.1",
+    "version": "1.0.1",
+    "publisher": "Asuna",
+    "icon": "taiga.jpg",
     "engines": {
         "vscode": "^1.68.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Liko05/better-lorem"
     },
     "categories": [
         "Snippets"
