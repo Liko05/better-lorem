@@ -1,0 +1,20 @@
+{
+    "name": "better-lorem",
+    "displayName": "better_lorem",
+    "description": "Better lorem ipsum But its not actually lorem ipsum.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
