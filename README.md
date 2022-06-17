@@ -16,4 +16,7 @@ Users appreciate release notes as you update your extension.
 
 Initial release of better lorem.
 
+### 1.0.2
+Enabled older versions of vscode. (I hope i did enable them)
+
 ----------------------------------------------------------------------------------------------------------
