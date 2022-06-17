@@ -10,8 +10,6 @@ I was walking home from school and was discussing flexbox and css with my friend
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
 
 Initial release of better lorem.
